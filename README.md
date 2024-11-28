@@ -1,3 +1,3 @@
-# OyVey-BUILDABLE_SRC
-buildable SRC for OyVey client v0.0.3 (not to be confused with the version that leaked that was also named 0.0.3, this is rewitten and better)
-(fixed build)
+neverdies.me for 1.12.2
+using oyvey as a base cuz i couldnt be bothered making fresh base and havent worked much with 1.12.2
+(still best)
